@@ -1,0 +1,8 @@
+#nclude<studio.h>
+int main() {
+int num (,num1,num2);
+scant("%d,%d,&num1,&num2);
+sum=num1+num2;
+printf("%d+%d=%d", num1,num2,sum);
+return 0;
+}
